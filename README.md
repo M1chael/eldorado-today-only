@@ -1,7 +1,9 @@
 # Eldorado today-only
 Скрипт для отображения данных о товаре дня в "Эльдорадо". Сделал для вывода данных в [Conky](https://github.com/brndnmtthws/conky)
 ## Использование
+```
 ./today_only.rb -n|-p|-o|-d
+```
 Опции:
 
 	  -n 	наименование товара
